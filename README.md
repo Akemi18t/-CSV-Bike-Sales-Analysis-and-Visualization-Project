@@ -12,7 +12,7 @@ In my thorough exploration of the data analyst job market, I utilized a range of
 
 
 # The Analysis 
-- If you can't download the raw data, I have also made a dashboard using Tableau
+- If you can't download the raw data, I have made a dashboard using Tableau as well.
 [Link to My Tableau Visualization](https://public.tableau.com/app/profile/akemi.taira.vasquez/viz/AnalysisofBikeSalesandConsumerBehavior/Dashboard1)
 
 ### 1. Gender-Based Average Income Per Purchased
