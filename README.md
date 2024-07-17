@@ -11,7 +11,8 @@ In my thorough exploration of the data analyst job market, I utilized a range of
 - Tableau: Leveraged as my visualization tool to present data with clarity, using graphs, bars, and packed bubbles for easy comprehension.
 
 
-# The Analysis If you can't download the raw data, I have also made a dashboard using Tableau
+# The Analysis 
+- If you can't download the raw data, I have also made a dashboard using Tableau
 [Link to My Tableau Visualization](https://public.tableau.com/app/profile/akemi.taira.vasquez/viz/AnalysisofBikeSalesandConsumerBehavior/Dashboard1)
 
 ### 1. Gender-Based Average Income Per Purchased
@@ -37,7 +38,7 @@ This analysis explores how region (Europe, North America, Pacific) and education
 
 4. ***Relationship Between Region, Education, and Bike Purchase Behavior**:
 
-# - Dashboard of Analysis of Bike Sales and Consumer Behavior in Tableau
+# Dashboard of Analysis of Bike Sales and Consumer Behavior in Tableau
 [Link to My Tableau Visualization](https://public.tableau.com/app/profile/akemi.taira.vasquez/viz/AnalysisofBikeSalesandConsumerBehavior/Dashboard1)
 
 Thank You!
